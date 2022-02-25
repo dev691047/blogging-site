@@ -1,0 +1,85 @@
+
+
+
+*{
+  margin:0;
+  color:rgb(92, 78, 131);
+
+}
+.navbar{
+  padding:20px;
+  display: flex;
+  align-items: center;
+  max-width:600px;
+  margin:auto;
+  border-bottom: 1px solid rgb(218, 218, 218);
+}
+
+.navbar h1{
+ 
+  color: rgb(85, 85, 224);
+  font-size: 28px;
+  letter-spacing: 2px;
+
+
+}
+.navbar .links {
+  margin-left: auto;
+
+}
+.navbar a{
+  margin-left:16px;
+  text-decoration: none;
+  padding: 6px;
+
+}
+
+
+.content{
+  max-width: 600px;
+  margin:40px auto;
+  padding: 20px;
+  /* border:1px solid red; */
+  text-align: left;
+
+}
+ .blog-view{  
+    padding:10px;
+    color:rgb(120, 120, 204);
+   border-bottom: 1px solid rgb(109, 109, 184);
+
+ }
+ .blog-view h2{
+   font-size: 20px;
+   color:blue;
+   margin-bottom: 8px;
+  }
+
+  .create{
+    max-width: 600px;
+    margin:0 auto;
+    text-align: center;
+  }
+.create label{
+  text-align: center;
+  display: block;
+}
+
+.create h2{
+  /* text-align: center; */
+  /* display: block; */
+  font-size: 25px;
+  color:rgb(84, 84, 233);
+  margin-bottom: 30px;
+}
+
+.create input,.create textarea ,.create select{
+  width:100%;
+ padding:5px 10px;
+ margin: 10px 0;
+ border:1px solid rgb(197, 197, 197);
+ box-sizing: border-box;
+ display: block;
+text-align: left;
+}
+

@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "htyhrhrjrwhwrtw",
+      "author": "jim",
+      "body": "hwrthrthjrthrtwhjrthrthw4",
+      "id": 11
+    },
+    {
+      "title": "wqsdfwsedfsd",
+      "author": "jim",
+      "body": "sdfsdfdsdsf",
+      "id": 12
+    },
+    {
+      "title": "the new blog",
+      "author": "jim",
+      "body": "xxxsxc  x",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "comments": "michal is a boy",
+      "id": 1
+    }
+  ]
+}
